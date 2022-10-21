@@ -85,14 +85,14 @@ breadcrumbs_separator: '/'
 # Date formats
 # ---------------------------------------------------------------------------------------
 date_formats:
-  post:                '%d %b %Y'
+  post:                '%Y %d %b'
   last_modified_at:    '%Y-%m-%d'
-  related_post:        '%d %b %Y'
+  related_post:        '%Y %d %b'
   list_group_by:       '%Y'
-  list_entry:          '%d %b'
+  list_entry:          '%b %d'
   project:             '%Y'
   projects_group_by:   '%Y'
-  resume:              '%b %Y'
+  resume:              '%Y %b'
 
 
 # PRO Version
