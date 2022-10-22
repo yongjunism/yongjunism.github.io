@@ -4,20 +4,12 @@
 basics:
   name: "Yongjun Cho"
   label: "Programmer"
-  picture: "https://via.placeholder.com/240x240"
+  picture: "/assets/img/yj.ai"
   email: "yjcho.dev@gmail.com"
   # phone: "(912) 555-4321"
   website: "yongjunism.github.io"
   summary: >
-    Richard hails from Tulsa.
-    He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!)
-    Before starting Pied Piper, he worked for Hooli as a part time software developer.
-    While his work focuses on applied information theory,
-    mostly optimizing lossless compression schema of both the length-limited and adaptive variants,
-    his non-work interests range widely,
-    everything from quantum computing to chaos theory.
-    He could tell you about it, but THAT would NOT be a “length-limited” conversation!
-    Open `_data/resume.yml` to edit this text.
+    아주대학교에서 산업공학과 소프트웨어학을 전공하고, KT AIVLE과 AI 양재 허브에서 인공지능 교육을 수료하였습니다. 지금은 Kubernetes를 공부하고 있습니다.
   location:
     # address: "2712 Broadway St"
     # postalCode: "CA 94115"
@@ -54,8 +46,8 @@ work:
 #       - "Awarded 'Teacher of the Month'"
 education:
   - institution: "아주대학교"
-    area: "산업공학 / 소프트웨어학"
-    studyType: "학사"
+    area: "Industrial Engineering / Computer Science"
+    studyType: "Bachelor"
     startDate: "2015-03-02"
     endDate: "2022-02-22"
     # gpa: "4.0"
