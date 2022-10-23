@@ -24,8 +24,8 @@ basics:
     #   username: "Richard Hendricks"
     #   url: ""
 work:
-  - company: "Hyundai AutoEver"
-    position: "Professional"
+  - company: "현대오토에버"
+    # position: "Professional"
     # website: "https://piedpiper.com"
     startDate: "2022-10-04"
     # endDate: ""
@@ -46,8 +46,8 @@ work:
 #       - "Awarded 'Teacher of the Month'"
 education:
   - institution: "아주대학교"
-    area: "Industrial Engineering / Computer Science"
-    studyType: "Bachelor"
+    area: "산업공학 및 소프트웨어학(복수전공)"
+    studyType: "학사"
     startDate: "2015-03-02"
     endDate: "2022-02-22"
     # gpa: "4.0"
