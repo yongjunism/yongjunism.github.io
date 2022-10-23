@@ -2,19 +2,19 @@
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: "Yongjun Cho"
-  label: "Programmer"
-  picture: "/assets/img/yj.ai"
+  name: "조용준"
+  label: "Being an MLOps Engineer"
+  picture: "/assets/img/me_formal.jpg"
   email: "yjcho.dev@gmail.com"
   # phone: "(912) 555-4321"
   website: "yongjunism.github.io"
   summary: >
-    아주대학교에서 산업공학과 소프트웨어학을 전공하고, KT AIVLE과 AI 양재 허브에서 인공지능 교육을 수료하였습니다. 지금은 Kubernetes를 공부하고 있습니다.
+    아주대학교에서 산업공학 및 컴퓨터공학을 전공하고, KT AIVLE과 AI 양재 허브에서 인공지능 교육을 수료하였습니다. 지금은 Kubernetes를 공부하고 있습니다.
   location:
     # address: "2712 Broadway St"
     # postalCode: "CA 94115"
     # city: "San Francisco"
-    countryCode: "KR"
+    # countryCode: "KR"
     # region: "California"
   profiles:
     - network: "Instagram"
