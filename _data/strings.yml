@@ -85,14 +85,14 @@ breadcrumbs_separator: '/'
 # Date formats
 # ---------------------------------------------------------------------------------------
 date_formats:
-  post:                '%Y %d %b'
+  post:                '%Y년 %m월 %d일'
   last_modified_at:    '%Y-%m-%d'
-  related_post:        '%Y %d %b'
+  related_post:        '%Y년 %m월 %d일'
   list_group_by:       '%Y'
   list_entry:          '%b %d'
   project:             '%Y'
   projects_group_by:   '%Y'
-  resume:              '%Y %b'
+  resume:              '%b %Y'
 
 
 # PRO Version
@@ -125,12 +125,14 @@ resume:
   phone:               Phone
   website:             Website
   work:                Experience
-  work_title:          <!--position--> at <!--company-->
+  # work_title:          <!--position--> at <!--company-->
+  work_title:          <!--company--> 재직 중
   highlights:          Highlights
   volunteer:           Volunteer
   volunteer_title:     <!--position--> at <!--organization-->
   education:           Education
-  education_title:     <!--study_type--> in <!--area--> from <!--institution--> with GPA of <!--gpa-->
+  # education_title:     <!--study_type--> in <!--area--> from <!--institution--> with GPA of <!--gpa-->
+  education_title:     <!--study_type--> in <!--area--> from <!--institution-->
   courses:             Courses
   awards:              Awards
   awards_title:        <!--title--> from <!--awarder-->
