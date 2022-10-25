@@ -17,7 +17,7 @@ basics:
     # countryCode: "KR"
     # region: "California"
   profiles:
-    - network: "Instagram"
+    # - network: "Instagram"
       username: "yongjunism"
       url: "https://www.instagram.com/yongjunism"
     # - network: "LinkedIn"
