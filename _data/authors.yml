@@ -2,13 +2,14 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              조용준
+  name:              Yongjun Cho
   email:             yjcho.dev@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    유능한 MLOps Engineer가 되기 위해 한 걸음 한 걸음 나아가는 중입니다.
+    Being an MLOps Engineer at [Hyundai AutoEver](https://www.hyundai-autoever.com/kor/main/index.do)<br>
+    Please check my [Resume][resume] to find out more about me!<br>
 
   # This photo will be used in the about section
   picture:
@@ -25,7 +26,7 @@ author1:
     # twitter:         <username>
     github:          yongjunism
     instagram:       yongjunism
-    # email:           <mail@domain.tld>
+    email:           yjcho.dev@gmail.com
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
