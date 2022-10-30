@@ -83,7 +83,7 @@ languages:
   - language: "Korean"
     fluency: "Native speaker"
   - language: "English"
-  fluency: "Fluent"
+    fluency: "Fluent"
 # interests:
 #   - name: "Wildlife"
 #     keywords:
