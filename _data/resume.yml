@@ -2,37 +2,38 @@
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: "조용준"
-  label: "Being an MLOps Engineer"
-  picture: "/assets/img/me_formal.jpg"
+  name: "YongJun Cho"
+  label: "Software Engineer"
+  picture: /assets/img/me_formal.jpg
   email: "yjcho.dev@gmail.com"
   # phone: "(912) 555-4321"
   website: "yongjunism.github.io"
   summary: >
-    아주대학교에서 산업공학 및 컴퓨터공학을 전공하고, KT AIVLE과 AI 양재 허브에서 인공지능 교육을 수료하였습니다. 지금은 Kubernetes를 공부하고 있습니다.
+    Hello, I'm YongJun Cho from Hyundai AutoEver.<br>
+    I am interested in AI-based data analysis, and now I'm studying Kubernetes.
   location:
     # address: "2712 Broadway St"
     # postalCode: "CA 94115"
     # city: "San Francisco"
-    # countryCode: "KR"
+    # countryCode: "US"
     # region: "California"
   profiles:
-    # - network: "Instagram"
+    - network: "Github"
       username: "yongjunism"
-      url: "https://www.instagram.com/yongjunism"
+      url: "https://github.com/yongjunism"
     # - network: "LinkedIn"
     #   username: "Richard Hendricks"
     #   url: ""
 work:
-  - company: "현대오토에버"
-    # position: "Professional"
-    # website: "https://piedpiper.com"
+  - company: "Hyundai AutoEver"
+    position: "AI Platform Developer"
+    website: "https://www.hyundai-autoever.com/kor/main/index.do"
     startDate: "2022-10-04"
-    # endDate: ""
+    endDate: ""
     summary: >
-      K8s 기반 AI플랫폼 구축 및 운영
-    # highlights:
-    #   - "Built an algorithm for artist to detect if their music was violating copy right infringement laws"
+      현대오토에버 기업 영문 설명
+    highlights:
+      - "BigData Technology Team"
     #   - "Successfully won Techcrunch Disrupt"
     #   - "Optimized an algorithm that holds the current world record for Weisman Scores"
 # volunteer:
@@ -45,12 +46,12 @@ work:
 #     highlights:
 #       - "Awarded 'Teacher of the Month'"
 education:
-  - institution: "아주대학교"
-    area: "산업공학 및 소프트웨어학(복수전공)"
-    studyType: "학사"
+  - institution: "Ajou University, Suwon"
+    area: "Industrial Engineering & Computer Science"
+    studyType: "Bachelor"
     startDate: "2015-03-02"
     endDate: "2022-02-22"
-    # gpa: "4.0"
+    gpa: "3.81 / 4.5"
     # courses:
     #   - "DB1101 - Basic SQL"
     #   - "CS2011 - Java Introduction"
@@ -78,9 +79,11 @@ education:
 #       - "Mpeg"
 #       - "MP4"
 #       - "GIF"
-# languages:
-#   - language: "English"
-#     fluency: "Native speaker"
+languages:
+  - language: "Korean"
+    fluency: "Native speaker"
+  - language: "English"
+  fluency: "Fluent"
 # interests:
 #   - name: "Wildlife"
 #     keywords:
