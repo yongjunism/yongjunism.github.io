@@ -1,5 +1,6 @@
+{%- raw -%}
 {% if page.applause_button %}
-<applause-button class="mb6"
+  <applause-button class="mb6"
     color={{ site.accent_color | default:'rgb(79,177,186)' }}
     url={{ post.url | absolute_url }} >
   </applause-button>
@@ -11,3 +12,4 @@
     <hr class="dingbat related mb6" />
   {% endif %}
 {% endif %}
+{% endraw %}
