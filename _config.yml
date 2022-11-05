@@ -207,7 +207,7 @@ utterances:
 # You must install giscus github app before use.(https://github.com/apps/giscus)
 # Make sure all variables are set properly. Check below link for detail.
 # https://giscus.vercel.app/
- giscus:
+giscus:
    repo: "yongjunism/yongjunism.github.io"
    repo-id: "MDEwOlJlcG9zaXRvcnkyNzU4Mjk1NTc="
    category: "Comments"
