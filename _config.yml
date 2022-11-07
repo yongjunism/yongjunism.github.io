@@ -209,9 +209,9 @@ utterances:
 # https://giscus.vercel.app/
 giscus:
    repo: "yongjunism/yongjunism.github.io"
-   repo-id: "MDEwOlJlcG9zaXRvcnkyNzU4Mjk1NTc="
+   repo-id: "R_kgDOHgdrxQ"
    category: "Comments"
-   category-id: "DIC_kwDOEHDTNc4B-MIg"
+   category-id: "DIC_kwDOHgdrxc4CSYkk"
    mapping: "pathname"
    reaction-enabled: "1"
    theme: "dark_dimmed"
