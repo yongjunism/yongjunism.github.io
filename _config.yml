@@ -3,7 +3,7 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-# url:                   https://username.github.io
+url:                   https://yongjunism.github.io
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
@@ -28,11 +28,11 @@ timezone:              Asia/Seoul
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  모토 찾아서 넣기
+  중요한 것은 꺾이지 않는 마음
   SW Engineer at Hyundai AutoEver
 
 # A shorter description for the sidebar.
-tagline:               Data Repository
+tagline:               중요한 것은 꺾이지 않는 마음
 
 # A list of keywords for your blog
 keywords:              ["Development", "AI", 'Kubernetes', "Data"]
@@ -40,7 +40,7 @@ keywords:              ["Development", "AI", 'Kubernetes', "Data"]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-# logo:                  /assets/img/yj.ai
+logo:                  /assets/img/me_jeju.jpeg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -197,7 +197,7 @@ comments:
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-disqus:                yongjunism-github-io
+# disqus:                yongjunism-github-io
 
 utterances:
    repo: "yongjunism/yongjunism.github.io"
