@@ -199,11 +199,11 @@ comments:
 # pages with `comments: true` in the front matter.
 # disqus:                yongjunism-github-io
 
-utterances:
-   repo: "yongjunism/yongjunism.github.io"
-   issue-term: "pathname"
-   label: "Comments"
-   theme: "photon-dark"
+# utterances:
+#    repo: "yongjunism/yongjunism.github.io"
+#    issue-term: "pathname"
+#    label: "Comments"
+#    theme: "photon-dark"
 # You must install giscus github app before use.(https://github.com/apps/giscus)
 # Make sure all variables are set properly. Check below link for detail.
 # https://giscus.vercel.app/
@@ -214,8 +214,12 @@ giscus:
    category-id: "DIC_kwDOHgdrxc4CSYkk"
    mapping: "pathname"
    reaction-enabled: "1"
+   data-emit-metadata: "0"
    theme: "dark_dimmed"
+   data-lang: "en"
    crossorigin: "anonymous"
+
+lightbox: true
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!
 # tinyletter:            <username>
