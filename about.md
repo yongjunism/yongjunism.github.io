@@ -9,7 +9,7 @@ order: 1
 
 ## Hello, World!
 
-Hi, I'm **YongJun ChO**.
+Hi, I'm **YongJun Cho**.
 <!-- ,*a.k.a.* **Lazy Ren**.<br> -->
 I'm currently working at **[Hyundai AutoEver]**, and previsouly was IE & CSE student of **[Ajou University]**.<br>
 I was into AI-based data analysis, and am studying in Kubernetes these days.
