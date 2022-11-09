@@ -228,7 +228,7 @@ comments:
 giscus:
    repo: "yongjunism/yongjunism.github.io"
    repo-id: "R_kgDOHgdrxQ"
-   category: "Announcements"
+   category: "Comments"
    category-id: "DIC_kwDOHgdrxc4CSYkk"
    mapping: "pathname"
    reaction-enabled: "1"
