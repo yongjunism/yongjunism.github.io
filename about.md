@@ -12,9 +12,9 @@ order: 1
 Hi, I'm **YongJun Cho**.
 <!-- ,*a.k.a.* **Lazy Ren**.<br> -->
 I'm currently working at **[Hyundai AutoEver]**, and previsouly was IE & CSE student of **[Ajou University]**.<br>
-I was into AI-based data analysis, and am studying in Kubernetes these days.
-I like to collect fountain pens, write with them, and I also like to play Go.<br>
-The match between AlphaGo and Lee Sedol made me interested in AI.<br>
+I was into AI-based data analysis, and am studying Kubernetes these days.<br>
+I like to collect fountain pens, write with them, and also play Go.<br>
+The match between AlphaGo and Lee Sedol made me interested in AI, and it is still going on.<br>
 Please check my [resume] if you wish to know more about me.
 
 ***
