@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blog
 title: 소개
 sitemap: false
 ---
