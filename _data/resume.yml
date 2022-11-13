@@ -80,10 +80,14 @@ education:
 #       - "MP4"
 #       - "GIF"
 languages:
-  - language: "Korean"
-    fluency: "Native speaker"
-  - language: "English"
-    fluency: "Fluent"
+  # - language: "Korean"
+  #   fluency: "Native speaker"
+  # - language: "English"
+  #   fluency: "Fluent"
+  - language: "TOEIC"
+    fluency: "945 / 990"
+  - language: "OPIc"
+    fluency: "IM2 (Intermediate Mid)"
 # interests:
 #   - name: "Wildlife"
 #     keywords:
