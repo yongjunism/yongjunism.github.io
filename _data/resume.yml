@@ -21,9 +21,9 @@ basics:
     - network: "Github"
       username: "yongjunism"
       url: "https://github.com/yongjunism"
-    # - network: "LinkedIn"
-    #   username: "Richard Hendricks"
-    #   url: ""
+    - network: "LinkedIn"
+      username: "YongJun Cho"
+      url: "https://www.linkedin.com/in/yongjun-cho-609558257/"
 work:
   - company: "Hyundai AutoEver"
     position: "AI Platform Developer"
