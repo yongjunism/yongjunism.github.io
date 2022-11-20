@@ -28,11 +28,13 @@ timezone:              Asia/Seoul
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  중요한 것은 꺾이지 않는 마음
+  ❝ 본질적인 진보는 우리가 의식하지 못하는 사이에 일어난다. ❞
   SW Engineer at Hyundai AutoEver
 
 # A shorter description for the sidebar.
-tagline:               중요한 것은 꺾이지 않는 마음
+tagline:               |
+  ❝ 본질적인 진보는   
+  우리가 의식하지 못하는 사이에 일어난다. ❞
 
 # A list of keywords for your blog
 keywords:              ["Development", "AI", 'Kubernetes', "Data"]
