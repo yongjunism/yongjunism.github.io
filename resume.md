@@ -11,7 +11,7 @@ left_column:
   - work
   # - volunteer
   - education
-  # - awards
+  - awards
   # - publications
   # - references
 right_column:
