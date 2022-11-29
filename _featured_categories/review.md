@@ -6,5 +6,5 @@ slug: review
 sidebar: true
 order: 4
 description: >
-  Reviews on hardwares, books and certificate exams.
+  Reviews on softwares, hardwares, books, certificate exams, etc.
 ---
