@@ -67,7 +67,7 @@ based on the jekyll theme [Hydejack].
 
 <!-- Links -->
 [Hyundai AutoEver]: https://www.hyundai-autoever.com/
-[Ajou University]: https://www.ajou.ac.kr/ㅉㅉ
+[Ajou University]: https://www.ajou.ac.kr/
 <!-- [heavy gamer]: https://steamcommunity.com/id/lazyren -->
 [resume]: /resume/
 <!-- [original post]: http://blog.vivekmahbubani.com/2007/03/work-hard-to-be-lazy.html -->
