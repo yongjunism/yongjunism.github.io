@@ -6,8 +6,6 @@ category: dev
 tags: docker 
 ---
 
-## 상황
-
 docker hub에 이미지를 푸시하려고 할 때, *denied: requested access to the resource is denied* 에러가 발생할 수 있습니다.
 
 ## 원인
@@ -25,12 +23,12 @@ docker login을 통해 로그인하시면 됩니다.
 2번의 경우에는, 아래의 command를 통해 docker tag를 올바르게 하셨는지 다시 살펴보세요.
 
 ```bash
-docker tag [image]:[tag] [username]/[target repository]:[tag]
+docker tag [image]:[tag] [username]/[repository]:[tag]
 ```
 
 [image]:[tag] 부분은 docker images 커맨드로 확인하시면 됩니다.
-[username]은 docker hub에서 사용하고 계시는 account 이름,
-[target repository]:[tag] 부분은 푸시하실 repo의 이름과 지정하실 tag를 넣으시면 됩니다.
+[username]은 docker hub에서 사용하고 계시는 account 이름,<br>
+[repository]:[tag] 부분은 푸시하실 repo의 이름과 지정하실 tag를 넣으시면 됩니다.
 
 그럼 저는 어떻게 했는지 보실까요?
 ```bash
@@ -52,6 +50,6 @@ docker tag yj-iris-preprocessing:latest yongjuncho/yj-iris-preprocessing:0.5
 ```bash
 docker push yongjuncho/yj-iris-preprocessing:0.5
 ```
-푸시를 마무리해주시면 되겠습니다.
+이렇게 푸시를 마무리해주시면 되겠습니다.
 
 [여기]: https://hub.docker.com
