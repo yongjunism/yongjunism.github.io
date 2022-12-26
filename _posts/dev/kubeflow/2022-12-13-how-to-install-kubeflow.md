@@ -2,7 +2,7 @@
 layout: post
 title: "Mac에서 kubeflow 설치하기"
 subtitle: "How to install kubeflow on mac"
-category: kubeflow
+category: dev
 tags: minikube mac
 ---
 
