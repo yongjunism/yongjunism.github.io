@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "당근마켓으로 첫 무료 나눔 성공적"
-subtitle: "First free sharing through daangn market "
+subtitle: "First free sharing through daangn market"
 category: diary
 ---
 
