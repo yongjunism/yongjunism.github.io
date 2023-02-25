@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "폰 사는게 제일 어려워"
-subtitle: "Hard to buy a phone"
+title: "뽐뿌는 어려워"
+subtitle: "Difficult ppomppu"
 category: diary
 ---
 
