@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "3일동안 회사 안 나감"
-subtitle: "Working remotely for 3 days"
+subtitle: "Working remotely for three days"
 category: diary
 ---
 
