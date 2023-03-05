@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "잘 모르겠는 에러투성이"
-subtitle: "Full of errors"
+title: "아는게 아는게 아니야"
+subtitle: "I don't know what I know"
 category: diary
 ---
 
