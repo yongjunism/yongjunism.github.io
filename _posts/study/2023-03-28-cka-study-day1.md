@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "CKA(Certified Kubernetes Administrator) Study Day1"
-subtitle: "CKA(Certified Kubernetes Administrator) Study Day1"
-category: dev
+title: "CKA study Day1"
+subtitle: "CKA study Day1"
+category: study
 tags: CKA
 ---
 
