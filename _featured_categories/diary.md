@@ -3,7 +3,7 @@ layout: list
 type: category
 title: Diary
 slug: diary
-sidebar: true
+sidebar: false
 order: 4
 description: >
   Memorable days and thoughts
