@@ -4,7 +4,7 @@ type: category
 title: Diary
 slug: diary
 sidebar: false
-order: 4
+order: 8
 description: >
   Memorable days and thoughts
 ---
