@@ -6,24 +6,24 @@ category: study
 tags: CKA
 ---
 
-# Section 2: Core Concepts
+## Section 2: Core Concepts
 
-## Cluster Architecture
+### Cluster Architecture
 <img src="https://www.redhat.com/rhdc/managed-files/kubernetes_diagram-v3-770x717_0.svg" width="600">
 강의에서는 컨테이너를 싣은 배(파드)에 훌륭하게 비유했습니다. 
 
-## etcd
+### ETCD
 - distributed, reliable key-value store that is simple, secure, and fast
 - node, pod, config, secret, account, role, role binding 등 클러스터와 관련된 정보를 저장함
 - -etcd-servers 옵션은 etcd 서버의 위치를 명시하고, 이를 통해 etcd 서버와 통신합니다.
 
-## kube-apiserver
+### Kube-apiserver
 kube-apiserver는 쿠버네티스에서 필수적인 주요 컴포넌트들 중 하나죠.<br>
 kubectl 명령어를 날릴 때도, kube-apiserver가 요청을 확인하고 검증하는 절차를 수행합니다.<br>
 그 다음에 etcd에서 데이터를 받아 원하는 정보를 출력합니다.<br>
 kubectl 명령어 뿐만 아니라, POST 요청을 보내서 API를 직접 호출할 수도 있습니다.<br>
 
-## kube-controller-manager
+### Kube-controller-manager
 controller의 역할은 다음과 같습니다.<br>
 1. continuously monitors the state of various components
 2. works towards bringing the whole system to the desired functioning system
@@ -37,9 +37,9 @@ replication controller는 replica set의 파드 갯수가 정해진 만큼 가�
 service를 살펴보면,
 node-monitor-period=5s, node-monitor-grace-period=40s<br>
 pod-eviction-timeout=5m0s, controllers에 관한 옵션을 상세히 확인할 수 있습니다.<br>
-노드 가용성과 관련해서는 나리님이 [포스팅]도 한 번 참고하실 것을 권합니다.
+노드 가용성과 관련해서는 나라님의 [포스팅]을 한 번 참고하실 것을 권합니다.
 
-## kube-scheduler
+### Kube-scheduler
 스케줄러는 일정 기준에 따라 어느 노드에 파드를 할당할지 결정합니다. 예를 들어, 리소스 요구량이 서로 다른 파드들이 있을 때, 스케줄러는 각 파드에 맞는 최적의 노드를 찾으려고 합니다.<br>
 어떻게? 먼저, 파드와 맞지 않는 노드는 걸러내고, 남은 노드들 중에 할당하고 남은 가용한 리소스가 많은 쪽에 더 높은 랭크를 주는 방식으로요.<br>
 이러한 방식은 커스텀해서 쓸 수도 있고, 추후 resource requirements and limites, taints and tolerations, node selectors, affinity rules에서 더 심도 있게 다룰텐데요.<br>
