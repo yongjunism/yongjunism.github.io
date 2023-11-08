@@ -3,14 +3,14 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: "YongJun Cho"
-  label: "Software Engineer"
+  label: "AI Platform Engineer"
   picture: /assets/img/me_formal.jpg
   email: "yjcho.dev@gmail.com"
   # phone: "(912) 555-4321"
   website: "yongjunism.github.io"
   summary: >
     Hello, I'm YongJun Cho from Hyundai AutoEver.<br>
-    I am interested in AI-based data analysis, and now I'm studying Kubernetes.
+    I am running an AI Platform on Kubernetes, and studying Kubernetes and LLM.
   location:
     # address: "2712 Broadway St"
     # postalCode: "CA 94115"
@@ -33,7 +33,7 @@ work:
     summary: >
       Hyundai AutoEver, a “mobility software provider” that reliably, efficiently, and innovatively supports software and infrastructure across in-car and out-car areas, builds a mobility software platform to flexibly connect hardware and software, and is creating new value for the upcoming mobility ecosystem.
     highlights:
-      - "Big Data Technology Team"
+      - "Data Platform Technology Team"
       # - "Successfully won Techcrunch Disrupt"
       # - "Optimized an algorithm that holds the current world record for Weisman Scores"
 # volunteer:
