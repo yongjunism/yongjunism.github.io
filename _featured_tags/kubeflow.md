@@ -6,5 +6,5 @@ slug: kubeflow
 category: dev
 sidebar: true
 description: >
-   Running Kubeflow on Kubernetes.
+   Kubernetes + MLflow
 ---

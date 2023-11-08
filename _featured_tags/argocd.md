@@ -6,5 +6,6 @@ slug: argocd
 category: dev
 sidebar: true
 description: >
-   Let's get stuffed!
+   Declarative GitOps Continuous Delivery.
+   Let's get stuff deployed!
 ---

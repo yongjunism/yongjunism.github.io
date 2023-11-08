@@ -1,10 +1,10 @@
 ---
 layout: tag-list
 type: tag
-title: Linux / Shell
-slug: linux-shell
+title: Docker
+slug: docker
 category: dev
 sidebar: true
 description: >
-   Linux / Shell
+   Build, Ship and Run Any App, Anywhere
 ---
