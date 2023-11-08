@@ -26,14 +26,15 @@ docker tag [image]:[tag] [username]/[repository]:[tag]
 ```
 
 [image]:[tag] 는 docker images 커맨드로 확인합니다.
-[username] 은 docker hub에서 사용하고 있는 account 이름,`<br>`
-[repository]:[tag] 은  push할 repo명과 명시할 버전 tag를 넣어줍니다.
 
+[username] 은 docker hub에서 사용하고 있는 account 이름
+
+[repository]:[tag] 은  push할 repo명과 명시할 버전 tag를 넣어줍니다.
 
 
 ---
 
-
+이제 다음과 같이 적용합니다.
 
 ```bash
 docker build -t yj-iris-preprocessing .
@@ -45,18 +46,16 @@ docker images를 통해 yj-iris-preprocessing 이라는 이미지가 잘 빌드�
 
 tag는 따로 명시하지 않아서 latest로 만들어주네요.
 
-
 ```bash
-docker tag yj-iris-preprocessing:latest yongjuncho/yj-iris-preprocessing:0.5
+docker tag yj-iris-preprocessing:latest yongjuncho/yj-iris-preprocessing:v1.0
 ```
 
-docker tag를 하고
-
+저는 yj-iris-preprocessing이라는 repo에 v1.0으로 태그를 달아주었습니다.
 
 ```bash
 docker push yongjuncho/yj-iris-preprocessing:0.5
 ```
 
-이렇게 push까지 해주면 docker hub에 이미지가 잘 올라간 것을 확인할 수 있습니다.
+마지막으로, push까지 해주면 docker hub에 이미지가 잘 올라간 것을 확인할 수 있습니다.
 
 [여기]: https://hub.docker.com
