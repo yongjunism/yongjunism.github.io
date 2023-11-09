@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'validation failure list: page in query must be type of int64: 'NaN'page_size in query must be of type int64: "[object Object]" 에러'
-subtitle: 'validation failure list: page in query must be type of int64: 'NaN'page_size in query must be of type int64: "[object Object]" error'
+title: "validation failure list: page in query must be type of int64: 'NaN'page_size in query must be of type int64: '[object Object]' 에러"
+subtitle: "validation failure list: page in query must be type of int64: 'NaN'page_size in query must be of type int64: '[object Object]' error"
 category: dev
-tags: docker
+tags: harbor
 ---
 요즘 Velero로 k8s를 백업하면서 그 중 harbor를 먼저 손대고 있다.
 
