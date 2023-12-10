@@ -26,14 +26,15 @@ basics:
       url: "https://www.linkedin.com/in/yongjun-cho-609558257/"
 work:
   - company: "Hyundai AutoEver"
-    position: "AI Platform Developer"
+    position: "AI Platform Engineer"
     website: "https://www.hyundai-autoever.com/kor/main/index.do"
     startDate: "2022-10-04"
     endDate: ""
     summary: >
       Hyundai AutoEver, a “mobility software provider” that reliably, efficiently, and innovatively supports software and infrastructure across in-car and out-car areas, builds a mobility software platform to flexibly connect hardware and software, and is creating new value for the upcoming mobility ecosystem.
     highlights:
-      - "Data Platform Technology Team"
+      - "Data Platform Technology Team(2022.10 ~ 2023.12)"
+      - "Cloud Platform Development Team(2024.01 ~ )"
       # - "Successfully won Techcrunch Disrupt"
       # - "Optimized an algorithm that holds the current world record for Weisman Scores"
 # volunteer:
